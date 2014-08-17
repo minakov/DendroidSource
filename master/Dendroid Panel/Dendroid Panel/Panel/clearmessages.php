@@ -1,4 +1,4 @@
-<?
+<?php
 // $url = "http://pizzachip.com/rat/";
 include("configg.php");
 
