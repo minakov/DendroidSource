@@ -1,6 +1,7 @@
 <?php
-  $url = "http://pizzachip.com/rat/";
-
+  // $url = "http://pizzachip.com/rat/";
+  include("config.php");
+  
   if (file_exists("config.php")) {
     include("config.php");
   } else {
