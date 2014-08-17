@@ -1,6 +1,6 @@
 <?php
 // $url = "http://pizzachip.com/rat/";
-include("config.php");
+include("configg.php");
 
 include("functions.php");
 
