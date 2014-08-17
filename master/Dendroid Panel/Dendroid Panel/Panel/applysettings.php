@@ -1,5 +1,6 @@
 <?php
-$url = "http://pizzachip.com/rat/";
+// $url = "http://pizzachip.com/rat/";
+include("config.php");
 
 include("functions.php");
 
