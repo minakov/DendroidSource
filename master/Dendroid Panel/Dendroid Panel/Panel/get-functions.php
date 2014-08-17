@@ -6,7 +6,7 @@ if(!isset($_GET['UID'], $_GET['Password'])){
 	die();
 }
 
-if($_GET['Password'] != 'keylimepie'){
+if($_GET['Password'] != $passwords){
 	echo "Wrong Password.";
 	die();
 }
